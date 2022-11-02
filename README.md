@@ -17,7 +17,7 @@ Besides these, the designed structures should be parsable from and to an adequat
 ## Unit info
 
 * **Name**: Programação Funcional e em Lógica (Functional and Logic Programming)
-* **Date**: Year 2, Semester 2, 2021/22
+* **Date**: Year 3, Semester 1, 2022/23
 * **See also**: [feup-pfl](https://github.com/Naapperas/feup-pfl)
 * [**More info**](https://sigarra.up.pt/feup/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434)
 
